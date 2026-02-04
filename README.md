@@ -200,7 +200,6 @@ docker-compose logs -f
 - [ ] Use environment variables for secrets
 - [ ] Set up CI/CD pipeline
 
-## Interview Talking Points
 
 ### Architecture
 - **Clean Architecture**: Separation of concerns (routes, services, models)
@@ -208,7 +207,7 @@ docker-compose logs -f
 - **Repository Pattern**: UserService encapsulates DB logic
 
 ### Security
-- **JWT vs Sessions**: Stateless authentication, scalable
+- **JWT vs Sessions**: Stateless authentication; scalable
 - **Password Hashing**: One-way encryption with bcrypt
 - **Rate Limiting**: Prevent abuse and DDoS
 

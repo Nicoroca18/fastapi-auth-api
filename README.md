@@ -234,7 +234,7 @@ MIT License
 
 ## Author
 
-[Tu Nombre] - Backend Engineer
+Nicolás Roca
 
 ---
 

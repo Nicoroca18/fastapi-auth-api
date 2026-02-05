@@ -4,7 +4,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.109.0-green.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
-Production-grade REST API with JWT authentication, rate limiting, and comprehensive security features.
+Production-grade REST API with JWT authentication, rate limiting, and comprehensive security features. 
 
 ## Features
 

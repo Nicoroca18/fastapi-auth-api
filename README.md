@@ -176,8 +176,8 @@ RATE_LIMIT_PER_MINUTE=60
 ```
 
 ## Deployment
-
-### Docker
+ 
+### Docker 
 ```bash
 # Build and run
 docker-compose up --build
@@ -199,7 +199,7 @@ docker-compose logs -f
 - [ ] Set up monitoring (Sentry, Datadog)
 - [ ] Use environment variables for secrets
 - [ ] Set up CI/CD pipeline
-
+ 
 
 ### Architecture
 - **Clean Architecture**: Separation of concerns (routes, services, models)

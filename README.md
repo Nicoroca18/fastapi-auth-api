@@ -106,7 +106,7 @@ pytest tests/ -v
 pytest tests/ --cov=app --cov-report=html
 
 # Run specific test file
-pytest tests/test_auth.py -v
+pytest tests/test_auth.py -v 
 ```
 
 ## Project Structure

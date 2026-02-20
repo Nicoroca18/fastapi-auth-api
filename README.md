@@ -109,7 +109,7 @@ pytest tests/ --cov=app --cov-report=html
 pytest tests/test_auth.py -v 
 ```
 
-## Project Structure
+## Project Structure 
 ```
 fastapi-auth-api/
 ├── app/
